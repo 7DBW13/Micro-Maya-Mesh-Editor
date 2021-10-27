@@ -10,7 +10,7 @@ Micro Maya Mesh Editor
 
 ![](img/represent.png)
 
-A mesh editor based on half-edge structure, assembled with Maya-like features like triangulation, edge spiltting, Catmull-Clark subdivision with sharp edges/vertices, and skeleton control with skin deformation.
+A mesh editor based on half-edge structure, assembled with Maya-like features like triangulation, edge splitting, Catmull-Clark subdivision with sharp edges/vertices, and skeleton control with skin deformation.
 
 ## Half-Edge Data Structure
 
